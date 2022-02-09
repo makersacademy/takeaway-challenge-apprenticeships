@@ -23,7 +23,7 @@ Instructions
 * You must submit a pull request to this repo with your code by 9am Monday morning
 
 Task
------
+----
 
 * Fork this repo
 * Run the command 'bundle' in the project directory to ensure you have all the gems
